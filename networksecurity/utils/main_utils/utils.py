@@ -1,6 +1,5 @@
 import yaml
 from networksecurity.exception.exception import NetworkSecurityException
-from networksecurity.logging.logger import logging
 import numpy as np
 import os
 import sys
