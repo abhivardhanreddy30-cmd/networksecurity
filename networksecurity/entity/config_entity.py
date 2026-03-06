@@ -137,4 +137,3 @@ class ModelTrainerConfig:
             training_pipeline.
             MODEL_TRAINER_OVER_FITTING_UNDER_FITTING_THRESHOLD
         )
-
